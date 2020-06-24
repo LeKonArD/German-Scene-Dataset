@@ -9,7 +9,7 @@
 * Frank Rehfeld: "Hetzjagd durch die Zeit." Dino-Land Bd.5. Bastei Lübbe. EAN: 9783732535200 <br>
 * O. S. Winterfield: "Immer wenn der Sturm kommt." Die schwarzen Perlen Bd.27. Bastei Lübbe. EAN: 9783732517695 <br>
 * Verena Kufsteiner: "Lass Blumen sprechen." Das Berghotel Bd.210. Bastei Lübbe. EAN: 9783732591732 <br>
-* Marina Anders: "Ein Weihnachtslied für Dr. Bergen." Notärztin Andrea Bergen Bd.1341. Bastei Lübbe. EAN: 9783732557905 Doctoral <br>
+* Marina Anders: "Ein Weihnachtslied für Dr. Bergen." Notärztin Andrea Bergen Bd.1341. Bastei Lübbe. EAN: 9783732557905 <br>
 Prophet der Apokalypse <br>
 * Frank Callahan: "Die Abrechnung." Skull Ranch Bd.29. Bastei Lübbe. EAN: 9783732597314 <br>
 * G.F. Unger: "Tausend Pferde." G.F. Unger Sonder-Edition Bd.187. Bastei Lübbe. ISBN-13: 9783732596249. <br>
