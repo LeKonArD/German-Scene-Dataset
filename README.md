@@ -14,7 +14,7 @@ python >= 3.8
 * O. S. Winterfield: "Immer wenn der Sturm kommt." Die schwarzen Perlen Bd.27. Bastei Lübbe. EAN: 9783732517695 <br>
 * Verena Kufsteiner: "Lass Blumen sprechen." Das Berghotel Bd.210. Bastei Lübbe. EAN: 9783732591732 <br>
 * Marina Anders: "Ein Weihnachtslied für Dr. Bergen." Notärztin Andrea Bergen Bd.1341. Bastei Lübbe. EAN: 9783732557905 <br>
-Prophet der Apokalypse <br>
+* Manfred Weinland: "Prophet der Apokalypse". 2012 Bd.6. Bastei Lübbe. EAN: 9783838713625 <br>
 * Frank Callahan: "Die Abrechnung." Skull Ranch Bd.29. Bastei Lübbe. EAN: 9783732597314 <br>
 * G.F. Unger: "Tausend Pferde." G.F. Unger Sonder-Edition Bd.187. Bastei Lübbe. ISBN-13: 9783732596249. <br>
 * Hedwig Courths-Mahler: "Verschmäht." Hedwig Courths-Mahler Bd.50. Bastei Lübbe. EAN: 9783732502929 <br>
