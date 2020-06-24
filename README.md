@@ -1,11 +1,11 @@
 # German-Scene-Dataset
 # How to obtain the data
 Since the novels are protected by copyright, we cannot publish them directly. Instead, you will find the segmentation in standoff format. To work with the data set you have to buy the novels listed below. Then name the epub files after their EAN/ISBN to create this folder structure:
-* epubs <br>
-.* 9783740950484 <br>
-.* 9783845397535 <br>
-.* 9783732515684 <br>
-.* 9783732517695 <br>
+* epubs (main folder) <br> 
+.* 9783740950484.epub <br>
+.* 9783845397535.epub <br>
+.* 9783732515684.epub <br>
+.* 9783732517695.epub <br>
 .* ... <br>
 ## Requirements
 python >= 3.8
