@@ -1,5 +1,5 @@
 # German-Scene-Dataset
-
+# How to obtain the data
 # Novels
 * Patricia Vandenberg: "Die hochmütigen Fellmann-Kinder." Sophienlust Classic 9. Matin Kelter Verlag EAN: 9783740950484 <br>
 * Hugh Walker: "Der Sohn des Kometen." Mythor Bd.1. Pabel Moewig Verlag. ISBN-13: 9783845397535 <br>
@@ -16,3 +16,6 @@ Prophet der Apokalypse <br>
 * Hedwig Courths-Mahler: "Verschmäht." Hedwig Courths-Mahler Bd.50. Bastei Lübbe. EAN: 9783732502929 <br>
 * Andreas Kufsteiner: "Wechselhaft wie der April." Der Bergdoktor Bd.2018. Bastei Lübbe. EAN: 9783732591725  <br>
 * Friederike von Bucher: "Wir schaffen es - auch ohne Mann." Toni der Hüttenwirt Bd.223. EAN: 9783740941093  <br>
+
+# Paper
+Link to paper
