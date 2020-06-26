@@ -7,6 +7,13 @@ Since the novels are protected by copyright, we cannot publish them directly. In
   * 9783732515684.epub <br>
   * 9783732517695.epub <br>
   * ... <br>
+  
+ Next run build_scene_dataset.py to create a tab-separated table. Layout: <br>
+ 
+ FILE_ID Scene_ID Scene Text <br>
+ 9783845397535 1 scene text <br>
+ 9783845397535 2 Non-scene text <br>
+ ...
 ## Requirements
 python >= 3.8
 
