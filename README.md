@@ -12,7 +12,7 @@ Since the novels are protected by copyright, we cannot publish them directly. In
  
  FILE_ID Scene_ID Scene Text <br>
  9783845397535 1 scene text <br>
- 9783845397535 2 Non-scene text <br>
+ 9783845397535 2 non-scene text <br>
  ...
 ## Requirements
 python >= 3.8
