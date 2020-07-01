@@ -20,7 +20,7 @@ python >= 3.8
 # Novels
 * Patricia Vandenberg: "Die hochmütigen Fellmann-Kinder." Sophienlust Classic 9. Matin Kelter Verlag EAN: 9783740950484 <br>
 * Hugh Walker: "Der Sohn des Kometen." Mythor Bd.1. Pabel Moewig Verlag. ISBN-13: 9783845397535 <br>
-* Wolfgang Hohlbein: "Als der Meister starb." Der Hexer Bd.2. Bastei Lübbe.  EAN: 9783732515684 <br>
+* Wolfgang Hohlbein: "Als der Meister starb." Der Hexer Bd.2. Bastei Lübbe.  EAN: 9783838721675 <br>
 * Jason Dark: "Der Turm der 1000 Schrecken". John Sinclair Bd. 32. Bastei Lübbe Horror EAN: 9783838727868 <br>
 * Regine König: "Bezaubernde neue Mutti". Fürstenkinder Bd.8. Martin Kelter Verlag. EAN: 9783740965716 <br>
 * Frank Rehfeld: "Hetzjagd durch die Zeit." Dino-Land Bd.5. Bastei Lübbe. EAN: 9783732535200 <br>
