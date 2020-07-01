@@ -17,7 +17,7 @@ Since the novels are protected by copyright, we cannot publish them directly. In
  
 ## Requirements
 python >= 3.8
-
+ebooklib EbookLib >= 0.17.1
 # Novels
 * Patricia Vandenberg: "Die hochmütigen Fellmann-Kinder." Sophienlust Classic 9. Matin Kelter Verlag EAN: 9783740950484 <br>
 * Hugh Walker: "Der Sohn des Kometen." Mythor Bd.1. Pabel Moewig Verlag. ISBN-13: 9783845397535 <br>
