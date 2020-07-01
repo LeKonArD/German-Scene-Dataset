@@ -37,7 +37,7 @@ def create_corpus(borders, gold):
         
         
         output = {}
-        output["scences"] = gold[str(ean)]
+        output["scenes"] = gold[str(ean)]
         output["text"] = p 
         with open('scene-dataset/'+str(ean)+".json", 'w') as outfile:
                json.dump(output, outfile)
