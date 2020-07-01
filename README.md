@@ -8,12 +8,13 @@ Since the novels are protected by copyright, we cannot publish them directly. In
   * 9783732517695.epub <br>
   * ... <br>
   
- Next run build_scene_dataset.py to create a tab-separated table. Layout: <br>
+ Next run create_dataset.py to merge epubs and standoff annotations from gold.json.<br>
+ This will store a json file for each novel in a new folder ./scene-dataset. <br>
  
- FILE_ID Scene_ID Scene Text <br>
- 9783845397535 1 scene text <br>
- 9783845397535 2 non-scene text <br>
- ...
+ JSON Layout:
+ ["text"]: Raw text
+ ["scences"]: List of dictionaries contationing "start" and "end" character positions for scenes
+ 
 ## Requirements
 python >= 3.8
 
