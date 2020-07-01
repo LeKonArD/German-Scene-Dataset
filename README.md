@@ -11,9 +11,9 @@ Since the novels are protected by copyright, we cannot publish them directly. In
  Next run create_dataset.py to merge epubs and standoff annotations from gold.json.<br>
  This will store a json file for each novel in a new folder ./scene-dataset. <br>
  
- JSON Layout:
- ["text"]: Raw text
- ["scences"]: List of dictionaries contationing "start" and "end" character positions for scenes
+ JSON Layout: <br>
+ ["text"]: Raw text <br>
+ ["scences"]: List of dictionaries contationing "start" and "end" character positions for scenes <br>
  
 ## Requirements
 python >= 3.8
