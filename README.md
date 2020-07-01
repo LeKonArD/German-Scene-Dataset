@@ -16,7 +16,7 @@ Since the novels are protected by copyright, we cannot publish them directly. In
  ["scences"]: List of dictionaries contationing "start" and "end" character positions for scenes <br>
  
 ## Requirements
-python >= 3.8
+python >= 3.8 <br>
 ebooklib EbookLib >= 0.17.1
 # Novels
 * Patricia Vandenberg: "Die hochmütigen Fellmann-Kinder." Sophienlust Classic 9. Matin Kelter Verlag EAN: 9783740950484 <br>
