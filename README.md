@@ -13,7 +13,7 @@ Since the novels are protected by copyright, we cannot publish them directly. In
  
  JSON Layout: <br>
  ["text"]: Raw text <br>
- ["scences"]: List of dictionaries contationing "start" and "end" character positions for scenes <br>
+ ["scenes"]: List of dictionaries contationing "start" and "end" character positions for scenes <br>
  
 ## Requirements
 python >= 3.8 <br>
